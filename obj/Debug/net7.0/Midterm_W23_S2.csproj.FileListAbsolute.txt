@@ -1,0 +1,30 @@
+/Users/harryscanlan/Documents/Projects/Conestoga/Midterm_W23_S2/bin/Debug/net7.0/Midterm_W23_S2
+/Users/harryscanlan/Documents/Projects/Conestoga/Midterm_W23_S2/bin/Debug/net7.0/Midterm_W23_S2.deps.json
+/Users/harryscanlan/Documents/Projects/Conestoga/Midterm_W23_S2/bin/Debug/net7.0/Midterm_W23_S2.runtimeconfig.json
+/Users/harryscanlan/Documents/Projects/Conestoga/Midterm_W23_S2/bin/Debug/net7.0/Midterm_W23_S2.dll
+/Users/harryscanlan/Documents/Projects/Conestoga/Midterm_W23_S2/bin/Debug/net7.0/Midterm_W23_S2.pdb
+/Users/harryscanlan/Documents/Projects/Conestoga/Midterm_W23_S2/obj/Debug/net7.0/Midterm_W23_S2.csproj.AssemblyReference.cache
+/Users/harryscanlan/Documents/Projects/Conestoga/Midterm_W23_S2/obj/Debug/net7.0/Midterm_W23_S2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/harryscanlan/Documents/Projects/Conestoga/Midterm_W23_S2/obj/Debug/net7.0/Midterm_W23_S2.AssemblyInfoInputs.cache
+/Users/harryscanlan/Documents/Projects/Conestoga/Midterm_W23_S2/obj/Debug/net7.0/Midterm_W23_S2.AssemblyInfo.cs
+/Users/harryscanlan/Documents/Projects/Conestoga/Midterm_W23_S2/obj/Debug/net7.0/Midterm_W23_S2.csproj.CoreCompileInputs.cache
+/Users/harryscanlan/Documents/Projects/Conestoga/Midterm_W23_S2/obj/Debug/net7.0/Midterm_W23_S2.dll
+/Users/harryscanlan/Documents/Projects/Conestoga/Midterm_W23_S2/obj/Debug/net7.0/refint/Midterm_W23_S2.dll
+/Users/harryscanlan/Documents/Projects/Conestoga/Midterm_W23_S2/obj/Debug/net7.0/Midterm_W23_S2.pdb
+/Users/harryscanlan/Documents/Projects/Conestoga/Midterm_W23_S2/obj/Debug/net7.0/Midterm_W23_S2.genruntimeconfig.cache
+/Users/harryscanlan/Documents/Projects/Conestoga/Midterm_W23_S2/obj/Debug/net7.0/ref/Midterm_W23_S2.dll
+C:\Users\nithi\OneDrive\Documents\Software Developemnt Techniques\Midterm\Midterm_W23_S2\Midterm_W23_S2\bin\Debug\net7.0\Midterm_W23_S2.exe
+C:\Users\nithi\OneDrive\Documents\Software Developemnt Techniques\Midterm\Midterm_W23_S2\Midterm_W23_S2\bin\Debug\net7.0\Midterm_W23_S2.deps.json
+C:\Users\nithi\OneDrive\Documents\Software Developemnt Techniques\Midterm\Midterm_W23_S2\Midterm_W23_S2\bin\Debug\net7.0\Midterm_W23_S2.runtimeconfig.json
+C:\Users\nithi\OneDrive\Documents\Software Developemnt Techniques\Midterm\Midterm_W23_S2\Midterm_W23_S2\bin\Debug\net7.0\Midterm_W23_S2.dll
+C:\Users\nithi\OneDrive\Documents\Software Developemnt Techniques\Midterm\Midterm_W23_S2\Midterm_W23_S2\bin\Debug\net7.0\Midterm_W23_S2.pdb
+C:\Users\nithi\OneDrive\Documents\Software Developemnt Techniques\Midterm\Midterm_W23_S2\Midterm_W23_S2\obj\Debug\net7.0\Midterm_W23_S2.csproj.AssemblyReference.cache
+C:\Users\nithi\OneDrive\Documents\Software Developemnt Techniques\Midterm\Midterm_W23_S2\Midterm_W23_S2\obj\Debug\net7.0\Midterm_W23_S2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nithi\OneDrive\Documents\Software Developemnt Techniques\Midterm\Midterm_W23_S2\Midterm_W23_S2\obj\Debug\net7.0\Midterm_W23_S2.AssemblyInfoInputs.cache
+C:\Users\nithi\OneDrive\Documents\Software Developemnt Techniques\Midterm\Midterm_W23_S2\Midterm_W23_S2\obj\Debug\net7.0\Midterm_W23_S2.AssemblyInfo.cs
+C:\Users\nithi\OneDrive\Documents\Software Developemnt Techniques\Midterm\Midterm_W23_S2\Midterm_W23_S2\obj\Debug\net7.0\Midterm_W23_S2.csproj.CoreCompileInputs.cache
+C:\Users\nithi\OneDrive\Documents\Software Developemnt Techniques\Midterm\Midterm_W23_S2\Midterm_W23_S2\obj\Debug\net7.0\Midterm_W23_S2.dll
+C:\Users\nithi\OneDrive\Documents\Software Developemnt Techniques\Midterm\Midterm_W23_S2\Midterm_W23_S2\obj\Debug\net7.0\refint\Midterm_W23_S2.dll
+C:\Users\nithi\OneDrive\Documents\Software Developemnt Techniques\Midterm\Midterm_W23_S2\Midterm_W23_S2\obj\Debug\net7.0\Midterm_W23_S2.pdb
+C:\Users\nithi\OneDrive\Documents\Software Developemnt Techniques\Midterm\Midterm_W23_S2\Midterm_W23_S2\obj\Debug\net7.0\Midterm_W23_S2.genruntimeconfig.cache
+C:\Users\nithi\OneDrive\Documents\Software Developemnt Techniques\Midterm\Midterm_W23_S2\Midterm_W23_S2\obj\Debug\net7.0\ref\Midterm_W23_S2.dll
